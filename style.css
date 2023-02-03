@@ -1,0 +1,82 @@
+body{
+    background-color: darkkhaki;
+}
+
+h2{
+    background-color: black;
+    color: #34eb80;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+#djole{
+    margin-left: 55px;
+    display: inline-block;
+}
+
+#djokovicimg{
+    height: 200px;
+    margin-left: 20px;
+}
+
+#djokovic{
+    background-color: dimgrey;
+    color:magenta;
+    font-size: 20px;
+    font-family:'Permanent Marker', cursive;
+    border: 3px solid;
+    padding: 10px;
+    width: 20%;
+}
+
+#jordan{
+    margin-left: 60px ;
+    font-size: 25px;         
+}
+
+#mj{
+
+   background-color: coral;
+   color: darkorchid;
+   font-size: 20px;
+   border: 3px solid;
+   border-radius: 5px;
+   padding: 10px;
+   width: 20%;
+   position: absolute;
+   left: 470px;
+   top: 93px;
+
+}
+
+#jordanimg{
+    height: 200px;
+    width: 250px;
+   
+}
+
+#schumi{
+    background-color: #eb0c22;
+    color: black;
+    font-size: 18px;
+    font-family:'Pacifico', cursive;
+    border: 5px solid;
+    border-radius: 3px;
+    padding: 10px;
+    width: 26%;
+    position: absolute;
+    left: 900px;
+    top: 93px;
+}
+
+#schumimg{
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+}
+
+#sch{
+    margin-left: 60px;
+    font-size: 25px;
+}
